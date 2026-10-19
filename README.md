@@ -24,10 +24,8 @@ Email: EyesDys66@gmail.com
 
 🎞️ 3. Animation
 
-![](./Picture/GITGIF.gif)
-![](./Picture/GITGIFa.gif)
-
-*** Place GITGIF.* here *** 
+![](./Animation/GITGIF.gif)
+![](./Animation/GITGIFa.gif)
 
 💬 4. Quote
 
