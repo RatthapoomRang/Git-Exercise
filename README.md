@@ -18,9 +18,14 @@ Email: EyesDys66@gmail.com
 
 🖼️ 2. Picture
 
-![Quote Image](./Picture/Quote.png)
+![](./Picture/Quote.bmp)
+![](./Picture/Quote.jpg)
+![](./Picture/Quote.png)
 
 🎞️ 3. Animation
+
+![](./Picture/GITGIF.gif)
+![](./Picture/GITGIFa.gif)
 
 *** Place GITGIF.* here *** 
 
