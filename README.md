@@ -18,7 +18,7 @@ Email: EyesDys66@gmail.com
 
 🖼️ 2. Picture
 
-![Quote](./Picture/Quote.png)
+![Quote Image](./Picture/Quote.png)
 
 🎞️ 3. Animation
 
